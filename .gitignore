@@ -1,0 +1,6 @@
+venv/
+engine/
+1_COLOCAR_PDF_AQUI/*
+2_AUDIOS_PRONTOS/*
+*.wav
+__pycache__/
