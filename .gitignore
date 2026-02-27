@@ -1,6 +1,18 @@
+# Ambientes virtuais
 venv/
+.env
+
+# Binários e modelos pesados
 engine/
+*.onnx
+*.json
+
+# Arquivos de mídia e entrada (Privacidade)
 1_COLOCAR_PDF_AQUI/*
 2_AUDIOS_PRONTOS/*
 *.wav
+*.mp3
+
+# Python cache
 __pycache__/
+*.py[cod]
