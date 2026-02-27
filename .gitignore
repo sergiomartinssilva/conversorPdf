@@ -8,8 +8,6 @@ engine/
 *.json
 
 # Arquivos de mídia e entrada (Privacidade)
-1_COLOCAR_PDF_AQUI/*
-2_AUDIOS_PRONTOS/*
 *.wav
 *.mp3
 
